@@ -1,7 +1,7 @@
 <?php
 require "vendor/autoload.php";
 
-$msg = $_POST['message'];
+$msg = $_GET['message'];
 
 $access_token = '8nis6lEXuKvtP7FnZJKre8iC9vb4buXXzIBLFoT6cs1dwfbdB50LQxJt8O/eOmZVKBAn07+ZeRdXEtl2v7qoq7qVQjuIHi/xSIbpW966/M1aWghIN6GKGqfev4lLwzWvhQJHOiOQVXorYm/IvosIWAdB04t89/1O/w1cDnyilFU=';
 
